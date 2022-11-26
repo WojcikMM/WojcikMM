@@ -181,14 +181,12 @@
 <br>
 <br>
 
-<p style="display: flex; gap: 1em; padding-top: 1em">
+<p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=wojcikmm&show_icons=true&locale=en&layout=compact"
         alt="wojcikmm" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojcikmm&show_icons=true&locale=en"
-        alt="wojcikmm" />
 </p>
-<!-- 
 <p>
-   
-</p> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wojcikmm&show_icons=true&locale=en"
+        alt="wojcikmm" />   
+</p>
