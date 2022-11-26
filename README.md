@@ -170,7 +170,8 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mmwojcikL">
+<p align="left">
+    <a href="https://www.buymeacoffee.com/mmwojcikL">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="Buy me a coffe" />
     </a>
@@ -178,11 +179,14 @@
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kk" />
     </a> -->
 </p>
-<br/><br/>
-<p>
+<br>
+<br>
+<br>
+<p align="left">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=wojcikmm&show_icons=true&locale=en&layout=compact"
         alt="wojcikmm" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=wojcikmm&show_icons=true&locale=en"
-        alt="wojcikmm" />   
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=wojcikmm&show_icons=true&locale=en"
+        alt="wojcikmm" />
 </p>
