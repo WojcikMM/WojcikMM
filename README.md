@@ -125,15 +125,3 @@
 <br>
 <br>
 <br>
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=WojcikMM&show_icons=true&locale=en&layout=compact"
-            alt="WojcikMM" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=WojcikMM&show_icons=true&locale=en"
-            alt="WojcikMM" />
-    </a>
-</p>
