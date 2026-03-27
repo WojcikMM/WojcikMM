@@ -5,11 +5,6 @@
      <img src="https://komarev.com/ghpvc/?username=WojcikMM&label=Profile%20views&color=0e75b6&style=flat" alt="WojcikMM" />
 </p>
 
-<p align="left">
-     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WojcikMM" alt="WojcikMM" />
-    </a>
- </p>
-
 - 🤖 Building **AI-powered enterprise solutions** leveraging modern AI tools and frameworks
 - 🏗️ Designing scalable systems using **Modular Monolith** and **Microservices** architectures
 - ☁️ Experienced in **cloud infrastructure setup** and **DevOps pipelines** (Docker, Kubernetes, Azure)
