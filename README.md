@@ -2,11 +2,11 @@
 <h3 align="center">AI Software Engineer & Architect | 10+ Years of Enterprise & Cloud Development</h3>
 
 <p align="left">
-     <img src="https://komarev.com/ghpvc/?username=wojcikmm&label=Profile%20views&color=0e75b6&style=flat" alt="wojcikmm" />
+     <img src="https://komarev.com/ghpvc/?username=WojcikMM&label=Profile%20views&color=0e75b6&style=flat" alt="WojcikMM" />
 </p>
 
 <p align="left">
-     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wojcikmm" alt="wojcikmm" />
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WojcikMM" alt="WojcikMM" />
     </a>
  </p>
 
@@ -126,10 +126,14 @@
 <br>
 <br>
 <p align="left">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=wojcikmm&show_icons=true&locale=en&layout=compact"
-        alt="wojcikmm" />
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=wojcikmm&show_icons=true&locale=en"
-        alt="wojcikmm" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=WojcikMM&show_icons=true&locale=en&layout=compact"
+            alt="WojcikMM" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=WojcikMM&show_icons=true&locale=en"
+            alt="WojcikMM" />
+    </a>
 </p>
